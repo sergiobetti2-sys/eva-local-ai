@@ -35,6 +35,37 @@ The goal is not to build a simple voice chatbot, but a modular assistant capable
 
 ---
 
+## Meet E.V.A.
+
+E.V.A. 2.0 is being developed not only as a voice interface, but as a visual and conversational presence for the local AI assistant.
+
+The current avatar concept explores a consistent visual identity for desktop interaction, voice feedback and future multimodal experiences.
+
+> **E.V.A. 2.0 — Live demo coming soon.**
+
+<p align="center">
+  <img src="assets/eva-2-portrait.png" alt="E.V.A. 2.0 portrait concept" width="380">
+</p>
+
+### E.V.A. 2.0 — Visual identity
+
+<p align="center">
+  <img src="assets/eva-2-sneakers.png" alt="E.V.A. 2.0 full-body sneakers concept" width="43%">
+  <img src="assets/eva-2-barefoot.png" alt="E.V.A. 2.0 full-body barefoot concept" width="43%">
+</p>
+
+### Design detail
+
+<p align="center">
+  <img src="assets/eva-2-footwear-detail.png" alt="E.V.A. branded footwear concept detail" width="450">
+</p>
+
+The E.V.A. branding is designed to extend beyond the interface into a recognizable visual identity. The current footwear concept includes a custom **E.V.A.** signature detail as part of the character design.
+
+*Current E.V.A. 2.0 avatar concept. Visual design may evolve during development.*
+
+---
+
 ## High-level architecture
 
 ```text
